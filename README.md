@@ -75,7 +75,7 @@ This allows dynamic and custom views for performance tracking and decision-makin
 1. Clone the repository
 2. Open the `.pbix` file in Power BI Desktop *(if shared)*
 3. Interact with slicers and visuals to explore data
-
+Example: ![Dashboard Preview].(https://github.com/puneetjawla/Blinkit-dashboard/blob/main/github_%5Bic.png)
 
 
 
